@@ -5,7 +5,7 @@ class Menma < Formula
   desc "menma is memo and manager"
   homepage "https://github.com/snptkdn/menma"
   url "https://github.com/snptkdn/menma/releases/download/v0.1.0/menma"
-  sha256 "3375cc44a65a963f0766f107386117e015dfaeedfd422f6f76a0320c7c413d6f"
+  sha256 "bafb7e6737ef1c7345972a1223991414a8be49d93f428b5579095c13f3a44d14"
   license "MIT"
 
   # depends_on "cmake" => :build
