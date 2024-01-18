@@ -4,7 +4,7 @@
 class Menma < Formula
   desc "menma is memo and manager"
   homepage "https://github.com/snptkdn/menma"
-  url "https://github.com/snptkdn/menma/archive/v0.1.0.tar.gz"
+  url "https://github.com/snptkdn/menma/releases/download/v0.1.0/menma"
   sha256 "3375cc44a65a963f0766f107386117e015dfaeedfd422f6f76a0320c7c413d6f"
   license "MIT"
 
